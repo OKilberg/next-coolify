@@ -1,4 +1,4 @@
-export const dynamic = "force-static";
+// export const dynamic = "force-static";
 /* THIS FILE WAS GENERATED AUTOMATICALLY BY PAYLOAD. */
 /* DO NOT MODIFY it because it could be re-written at any time. */
 import config from "@payload-config";
